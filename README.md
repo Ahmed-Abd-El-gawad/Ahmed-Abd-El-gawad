@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmed-Abd-Elgawad
-- 👀 I’m interested in Network and cyber security
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Cloud, DevOps, Network and cyber security
+- 🌱 I’m currently an ECE student
 - 💞️ I’m looking to collaborate on ...
 - 📫 https://www.linkedin.com/in/ahmed-abd-elgawad-9081751b9/
 
