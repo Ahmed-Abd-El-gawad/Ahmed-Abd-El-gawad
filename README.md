@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmed-Abd-Elgawad
-- 👀 I’m interested in Network, Cloud, DevOps, cybersecurity and DevOps
+- 👀 I’m interested in Network, Cloud, DevOps and cybersecurity
 - 🌱 I’m currently an ECE undergraduate 
 - 💞️ I’m looking for intership or job
 - 📫 https://www.linkedin.com/in/ahmed-abd-elgawad-9081751b9/
