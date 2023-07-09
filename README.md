@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmed-Abd-Elgawad
 - 👀 I’m interested in Network, Cloud and DevOps
-- 🌱 I’m currently a senior ECE student 
+- 🌱 I’m currently a fresh grad 
 - 💞️ I’m looking for intership or job
 - 📫 https://www.linkedin.com/in/ahmed-abd-elgawad-9081751b9/
 
