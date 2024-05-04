@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Ahmed-Abd-Elgawad
-- 👀 I’m interested in Network, Cloud and DevOps
-- 🌱 I’m currently a fresh grad 
-- 💞️ I’m looking for intership or job
+- 👋 Hi, I’m @Ahmed-Abd-El-gawad
+- 👀 I’m interested in DevOps and Cloud
 - 📫 [Linkedin](https://www.linkedin.com/in/ahmed-abd-elgawad-9081751b9/)
 
 
